@@ -1,0 +1,23 @@
+image3.webp: Figure/product collage — used for hero and flagship accessories.
+image8.webp: Figure 4.1 — CAFÉLIA bio-leather and circular fashion accessory ecosystem.
+image11.webp: Figure 3.10 — closed-loop production flow.
+image13.webp: Figure 4.2 — industrial B2B bio-leather rolls and Swatch/OEM Kit.
+image16.webp: Figure 4.4 — CAFÉLIA Brand Charm / circular accessory visual.
+image14.webp: Figure 4.6 — integrated communication ecosystem and customer touchpoints.
+image22.webp: Figure 4.7 — omni-channel distribution system.
+image23.webp: Figure 4.8 — marketing and commercialization roadmap.
+image24.webp: Figure 3.9 — material finishing and sustainable accessory manufacturing equipment.
+image2.webp: Factory / infrastructure visual from the report.
+image17.webp: Figure 3.8 — mycelium incubation chamber.
+image20.webp: Figure 3.7 — pre-treatment, substrate blending and sterilization equipment.
+image5.webp: Figure 2.5 — global bio-leather materials market forecast.
+image18.webp: Figure 2.2 — sustainable fashion accessories market growth.
+image21.webp: Figure 2.4 — export/import turnover of fashion products and alternative materials.
+image9.webp: Figure 2.1 — spent coffee grounds / organic waste treatment.
+image10.webp: Figure 2.3 — willingness to pay for vegan/circular fashion products.
+image7.webp: Figure 3.1 — Tan Phu Trung Industrial Park location.
+image15.webp: Figure 3.2 — logistics radius and coffee-ground collection flow.
+image19.webp: Figure 3.3 — multimodal logistics connectivity.
+image6.webp: Figure 3.4 — internal zoning and proposed factory location.
+image12.webp: Figure 3.6 — technology layout and functional zoning.
+image4.webp: Figure 4.5 — pricing strategy and tiered discount structure.
